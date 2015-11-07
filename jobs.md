@@ -17,10 +17,17 @@
 ##2. 职业岗位
 ###2.1 Web开发
 ####2.1.1 后端开发
-- 熟练掌握一种开发平台（PHP、J2EE、ASP.net、Nodejs）
+- 熟练掌握一种开发平台
+	- 开源阵营：PHP 或 Nodejs, 还有Python web, Ruby 等相对少一些
+	- 微软阵营：ASP.net
+	- Java阵营：J2EE
 
 ####2.1.2 前端开发
-- 熟练掌握 HTML5、CSS、Ajax、Java Sript
+- 熟练掌握
+	- 页面: HTML5
+	- 样式: CSS
+	- 部分更新: Ajax
+	- 本地计算: Java Sript
 
 ###2.2 移动开发
 - Android
